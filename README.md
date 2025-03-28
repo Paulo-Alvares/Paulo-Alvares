@@ -11,7 +11,7 @@
 <p>
   Olá, visitante do meu perfil no GitHub! Eu sou o Paulo, um apaixonado por tecnologia.
 
-Tenho 20 anos e iniciei minha jornada no mundo da tecnologia aos 14 anos, durante o ensino médio integrado ao curso técnico de Desenvolvimento de Sistemas pela Etec Dr. Celso Giglio (Osasco II). Foi lá que tive meu primeiro contato com uma linguagem de programação (C#) e mergulhei nos estudos de desenvolvimento full-stack, com HTML, CSS, JavaScript e PHP, além de sistemas embarcados e bancos de dados.
+Tenho 21 anos e iniciei minha jornada no mundo da tecnologia aos 14 anos, durante o ensino médio integrado ao curso técnico de Desenvolvimento de Sistemas pela Etec Dr. Celso Giglio (Osasco II). Foi lá que tive meu primeiro contato com uma linguagem de programação (C#) e mergulhei nos estudos de desenvolvimento full-stack, com HTML, CSS, JavaScript e PHP, além de sistemas embarcados e bancos de dados.
 
 Após concluir o ensino médio, ingressei na São Paulo Tech School (SPTech) para o curso de Análise e Desenvolvimento de Sistemas. Na faculdade, aprofundei meus conhecimentos em desenvolvimento de aplicações, com destaque para o uso de React e SpringBoot. Também desenvolvi uma base sólida em análise de sistemas e nos processos que envolvem o mundo da tecnologia.
 
@@ -54,7 +54,7 @@ Seja bem-vindo ao meu perfil! Sinta-se à vontade para explorar meus projetos, d
     <td valign="top" width="20%">
       <h3 align="center">Tools</h3>
       <div align="center">
-        <img src="https://iconsverse.vercel.app/icons?i=figma,docker,powerbi&perline=3" />
+        <img src="https://iconsverse.vercel.app/icons?i=figma,docker,powerbi,lookerstudio&perline=3" />
       </div>
     </td>
   </tr>
