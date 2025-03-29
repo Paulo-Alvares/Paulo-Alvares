@@ -17,6 +17,8 @@ Após concluir o ensino médio, ingressei na São Paulo Tech School (SPTech) par
 
 Além da formação acadêmica, tive uma experiência valiosa na Accenture, onde trabalhei com desenvolvimento ABAP no time SAP. Essa experiência me proporcionou uma visão prática sobre a rotatividade de clientes, versionamento de código, modelagem e a importância da documentação.
 
+Atualmente, estou trabalhando como jovem aprendiz focado em análise de dados no time de Places do Mercado Livre. Nessa posição, tenho a oportunidade de explorar grandes volumes de dados, desenvolver insights estratégicos e contribuir para a melhoria contínua das operações da plataforma. Essa experiência tem sido fundamental para aprimorar minhas habilidades em análise de dados, modelagem e visualização de informações.
+
 Acredito que cada dia é uma nova oportunidade para aprender algo incrível, e estou sempre em busca de tecnologias emergentes que estão revolucionando o cenário tecnológico.
 
 Seja bem-vindo ao meu perfil! Sinta-se à vontade para explorar meus projetos, dar sugestões ou conversar sobre tecnologia. Estou sempre aberto a novas conexões e oportunidades de aprendizado.
