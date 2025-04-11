@@ -29,7 +29,7 @@
     <td valign="top" width="20%">
       <h3 align="center">Front-End</h3>
       <div align="center">
-        <img src="https://iconsverse.vercel.app/icons?i=ts,react,angular&perline=3" />
+        <img src="https://iconsverse.vercel.app/icons?i=js,ts,react,angular,tailwind&perline=3" />
       </div>
     </td>
     <td valign="top" width="20%">
@@ -41,19 +41,19 @@
     <td valign="top" width="20%">
       <h3 align="center">Database</h3>
       <div align="center">
-        <img src="https://iconsverse.vercel.app/icons?i=mysql,postgres,mongo&perline=3" />
+        <img src="https://iconsverse.vercel.app/icons?i=mysql,postgres,sqlserver,mariadb,mongo&perline=3" />
       </div>
     </td>
     <td valign="top" width="20%">
       <h3 align="center">Cloud</h3>
       <div align="center">
-        <img src="https://iconsverse.vercel.app/icons?i=azure,aws,terraform&perline=3" />
+        <img src="https://iconsverse.vercel.app/icons?i=azure,aws,gcp,terraform&perline=3" />
       </div>
     </td>
     <td valign="top" width="20%">
       <h3 align="center">Tools</h3>
       <div align="center">
-        <img src="https://iconsverse.vercel.app/icons?i=figma,docker,powerbi&perline=3" />
+        <img src="https://iconsverse.vercel.app/icons?i=figma,docker,powerbi,lookerstudio,office,linux&perline=3" />
       </div>
     </td>
   </tr>
