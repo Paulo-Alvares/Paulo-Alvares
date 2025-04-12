@@ -9,17 +9,19 @@
 <h2 align="center">👋 About Me</h2> 
 
 <p>
-  Hello, visitor to my GitHub profile! I'm Paulo, passionate about technology.
+  Hello, visitor of my profile on GitHub! I am Paulo, a passionate about technology.
 
-  I'm 20 years old and I started my journey in the world of technology at the age of 14, during high school as part of the Systems Development technical course at Etec Dr. Celso Giglio (Osasco II). It was there that I had my first contact with a programming language (C#) and immersed myself in full-stack development studies, with HTML, CSS, JavaScript and PHP in addition to embedded systems and databases.
+  I am 21 years old and started my journey in the world of technology at 14, during high school integrated to the technical course of Systems Development by Etec Dr. Celso Giglio (Osasco II). It was there that I had my first contact with a programming language (C#) and immersed myself in the full-stack development studies, with HTML, CSS, JavaScript and PHP, as well as embedded systems and databases.
 
-  After completing high school, I entered São Paulo Tech School (SPTech) for the Systems Analysis and Development course. At college, I deepened my knowledge in application development, with emphasis on the use of React and SpringBoot. I also developed a solid foundation in systems analysis and the processes that involve the world of technology.
+  After finishing high school, I entered the São Paulo Tech School (SPTech) for the course of Analysis and Systems Development. In college, I deepened my knowledge in application development, especially the use of React and SpringBoot. I have also developed a solid foundation in systems analysis and processes involving the world of technology.
 
-  In addition to my academic training, I had valuable experience at Accenture, where I worked with ABAP development on the SAP team. This experience gave me practical insight into customer churn, code versioning, modeling and the importance of documentation.
+  In addition to my academic background, I had valuable experience at Accenture, where I worked with ABAP development on the SAP team. This experience gave me a hands-on insight into customer turnover, code versioning, modeling and the importance of documentation.
 
-  I believe that every day is a new opportunity to learn something incredible, and I am always on the lookout for emerging technologies that are revolutionizing the technology landscape.
+  Currently, I am working as a young apprentice focused on data analysis in the team of Places do Mercado Livre. In this position, I have the opportunity to explore large volumes of data, develop strategic insights and contribute to the continuous improvement of platform operations. This experience has been fundamental to improve my skills in data analysis, modeling and information visualization.
 
-  Welcome to my profile! Feel free to explore my projects, make suggestions, or chat about technology. I am always open to new connections and learning opportunities.
+  I believe that every day is a new opportunity to learn something amazing, and I am always looking for emerging technologies that are revolutionizing the technological landscape.
+
+  Welcome to my profile! Feel free to explore my projects, give suggestions or talk about technology. I am always open to new connections and learning opportunities.
 </p>
 
 <h2 align="center">🧑🏼‍💻 Technologies That I Know</h2>
