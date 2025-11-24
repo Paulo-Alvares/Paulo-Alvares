@@ -37,7 +37,7 @@
     <td valign="top" width="20%">
       <h3 align="center">Back-End</h3>
       <div align="center">
-        <img src="https://iconsverse.vercel.app/icons?i=nodejs,spring,python,kotlin,php&perline=3" />
+        <img src="https://iconsverse.vercel.app/icons?i=nodejs,spring,python,kotlin&perline=3" />
       </div>
     </td>
     <td valign="top" width="20%">
