@@ -56,7 +56,7 @@ Seja bem-vindo ao meu perfil! Sinta-se à vontade para explorar meus projetos, d
     <td valign="top" width="20%">
       <h3 align="center">Tools</h3>
       <div align="center">
-        <img src="https://iconsverse.vercel.app/icons?i=figma,docker,powerbi,lookerstudio,office,linux&perline=3" />
+        <img src="https://iconsverse.vercel.app/icons?i=figma,docker,powerbi,lookerstudio,office&perline=3" />
       </div>
     </td>
   </tr>
