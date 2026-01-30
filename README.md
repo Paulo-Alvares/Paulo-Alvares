@@ -9,21 +9,75 @@
 <h2 align="center">👋 Sobre Mim</h2>
 
 <p>
-  Olá, visitante do meu perfil no GitHub! Eu sou o Paulo, um apaixonado por tecnologia.
-
-Tenho 21 anos e iniciei minha jornada no mundo da tecnologia aos 14 anos, durante o ensino médio integrado ao curso técnico de Desenvolvimento de Sistemas pela Etec Dr. Celso Giglio (Osasco II). Foi lá que tive meu primeiro contato com uma linguagem de programação (C#) e mergulhei nos estudos de desenvolvimento full-stack, com HTML, CSS, JavaScript e PHP, além de sistemas embarcados e bancos de dados.
-
-Após concluir o ensino médio, ingressei na São Paulo Tech School (SPTech) para o curso de Análise e Desenvolvimento de Sistemas. Na faculdade, aprofundei meus conhecimentos em desenvolvimento de aplicações, com destaque para o uso de React e SpringBoot. Também desenvolvi uma base sólida em análise de sistemas e nos processos que envolvem o mundo da tecnologia.
-
-Além da formação acadêmica, tive uma experiência valiosa na Accenture, onde trabalhei com desenvolvimento ABAP no time SAP. Essa experiência me proporcionou uma visão prática sobre a rotatividade de clientes, versionamento de código, modelagem e a importância da documentação.
-
-Atualmente, estou trabalhando como analista de dados no Mercado Livre. Nessa posição, tenho a oportunidade de explorar grandes volumes de dados, desenvolver insights estratégicos e contribuir para a melhoria contínua das operações da plataforma. Essa experiência tem sido fundamental para aprimorar minhas habilidades em análise de dados, modelagem e visualização de informações.
-
-Acredito que cada dia é uma nova oportunidade para aprender algo incrível, e estou sempre em busca de tecnologias emergentes que estão revolucionando o cenário tecnológico.
-
-Seja bem-vindo ao meu perfil! Sinta-se à vontade para explorar meus projetos, dar sugestões ou conversar sobre tecnologia. Estou sempre aberto a novas conexões e oportunidades de aprendizado.
-
+  Sou <strong>Assistente de Dados</strong> no <strong>Mercado Livre</strong>, com formação em <strong>Análise e Desenvolvimento de Sistemas</strong> e uma base sólida em <strong>engenharia de software</strong>. Apaixonado por tecnologia, música, e pokémon!
 </p>
+
+<h2 align="center">🎓 Formação</h2>
+
+<table align="center">
+  <tr>
+    <td valign="top" width="min-content">
+      <h3 align="center">🤓 Técnico</h3>
+      <p align="center">
+        Desenvolvimento de Sistemas <br> 
+        Etec Dr. Celso Giglio (Osasco II) <br>
+        2019 - 2021 <br><br>
+        <a href="https://github.com/MyLearnHub">
+          <img src="https://iconsverse.vercel.app/icons?i=etec" />
+        </a>
+      </p>
+    </td>
+    <td valign="top" width="min-content">
+      <h3 align="center">🎓 Graduação</h3>
+      <p align="center">
+        Análise e Desenvolvimento de Sistemas <br> 
+        São Paulo Tech School (SPTech) <br>
+        2022 - 2024 <br><br>
+        <a href="https://github.com/MyLearnHub">
+          <img src="https://iconsverse.vercel.app/icons?i=sptech" />
+        </a>
+      </p>
+    </td>
+    <td valign="top" width="min-content">
+      <h3 align="center">📚 Formação Online</h3>
+      <p align="center">
+        Desenvolvimento Full Stack <br> 
+        Rocketseat <br>
+        2025 <br><br>
+        <a href="https://github.com/MyLearnHub">
+          <img src="https://iconsverse.vercel.app/icons?i=rocketseat" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<h2 align="center">💛 Carreira</h2>
+
+<table align="center" width="100%">
+  <tr>
+    <td valign="top" width="min-content">
+      <h3 align="center">&nbsp;&nbsp;&nbsp;💜 Accenture&nbsp;&nbsp;&nbsp;</h3>
+      <p align="center">
+        Estagiário <br> 
+        2023 - 2024 <br><br>
+        <a href="https://github.com/MyLearnHub">
+          <img src="https://iconsverse.vercel.app/icons?i=accenture" />
+        </a>
+      </p>
+    </td>
+    <td valign="top" width="max-content">
+      <h3 align="center">💛 Mercado Livre</h3>
+      <p align="center">
+        Assistente de Dados <br> 
+        2025 - Atual <br><br>
+        <a href="https://github.com/MyLearnHub">
+          <img src="https://iconsverse.vercel.app/icons?i=mercadolivre" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <h2 align="center">🧑🏼‍💻 Tecnologias</h2>
 
