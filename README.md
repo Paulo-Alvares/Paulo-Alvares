@@ -20,7 +20,7 @@
       <h3 align="center">🤓 Técnico</h3>
       <p align="center">
         Desenvolvimento de Sistemas <br> 
-        Etec Dr. Celso Giglio (Osasco II) <br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Etec Dr. Celso Giglio (Osasco II)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
         2019 - 2021 <br><br>
         <a href="https://github.com/MyLearnHub">
           <img src="https://iconsverse.vercel.app/icons?i=etec" />
@@ -41,7 +41,7 @@
     <td valign="top" width="min-content">
       <h3 align="center">📚 Formação Online</h3>
       <p align="center">
-        Desenvolvimento Full Stack <br> 
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Desenvolvimento Full Stack&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br> 
         Rocketseat <br>
         2025 <br><br>
         <a href="https://github.com/MyLearnHub">
@@ -57,7 +57,7 @@
 <table align="center" width="100%">
   <tr>
     <td valign="top" width="min-content">
-      <h3 align="center">&nbsp;&nbsp;&nbsp;💜 Accenture&nbsp;&nbsp;&nbsp;</h3>
+      <h3 align="center">&nbsp;&nbsp;&nbsp;💜 Accenture&nbsp;&nbsp;&nbsp;&nbsp;</h3>
       <p align="center">
         Estagiário <br> 
         2023 - 2024 <br><br>
@@ -141,19 +141,23 @@
   </tr>
 </table>
 
-<h2 align="center">📊 Status</h2>
+<!-- <h2 align="center">📊 Status</h2>
 
 <div align="center">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Paulo-Alvares&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Status&border_color=30363d&bg_color=00000000"/>
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Alvares&layout=compact&langs_count=8&theme=midnight-purple&border_color=30363d&bg_color=00000000&custom_title=Language"/>
-</div>
+</div> -->
 
 <h2 align="center">📫 Fale Comigo</h2>
 
 <div align="center"> 
-  <a href = "mailto:pauloalvares66@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/paulo-alvares/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  <a href="https://www.instagram.com/paulo_10111/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.facebook.com/paulogabriel.alvares"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-  <a href="https://codepen.io/Poulos-Alvares"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
+  <a href = "mailto:pauloalvares66@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/paulo-alvares/">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
+  <a href="https://codepen.io/Poulos-Alvares">
+    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">
+  </a>
 </div>
