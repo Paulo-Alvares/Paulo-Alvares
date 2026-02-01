@@ -23,7 +23,7 @@
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Etec Dr. Celso Giglio (Osasco II)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
         2019 - 2021 <br><br>
         <a href="https://github.com/MyLearnHub">
-          <img src="https://iconsverse.vercel.app/icons?i=etec&size=big" />
+          <img src="https://iconsverse.vercel.app/icons?i=etec&size=normal" />
         </a>
       </p>
     </td>
@@ -34,7 +34,7 @@
         São Paulo Tech School (SPTech) <br>
         2022 - 2024 <br><br>
         <a href="https://github.com/MyLearnHub">
-          <img src="https://iconsverse.vercel.app/icons?i=sptech&size=big" />
+          <img src="https://iconsverse.vercel.app/icons?i=sptech&size=normal" />
         </a>
       </p>
     </td>
@@ -45,7 +45,7 @@
         Rocketseat <br>
         2025 <br><br>
         <a href="https://github.com/MyLearnHub">
-          <img src="https://iconsverse.vercel.app/icons?i=rocketseat&size=big" />
+          <img src="https://iconsverse.vercel.app/icons?i=rocketseat&size=normal" />
         </a>
       </p>
     </td>
@@ -61,9 +61,7 @@
       <p align="center">
         Estagiário <br> 
         2023 - 2024 <br><br>
-        <a href="https://github.com/MyLearnHub">
-          <img src="https://iconsverse.vercel.app/icons?i=accenture&size=big" />
-        </a>
+        <img src="https://iconsverse.vercel.app/icons?i=accenture&size=normal" />
       </p>
     </td>
     <td valign="top" width="max-content">
@@ -71,9 +69,7 @@
       <p align="center">
         Assistente de Dados <br> 
         2025 - Atual <br><br>
-        <a href="https://github.com/MyLearnHub">
-          <img src="https://iconsverse.vercel.app/icons?i=mercadolivre&size=big" />
-        </a>
+        <img src="https://iconsverse.vercel.app/icons?i=mercadolivre&size=normal" />
       </p>
     </td>
   </tr>
