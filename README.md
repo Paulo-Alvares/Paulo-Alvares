@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <a href="#">Português</a> · <a href="/docs/README_EN.md">English</a>
+  <a href="#">Português</a> · <a href="/docs/README_EN.md">English</a> · <a href="/docs/README_ES.md">Español</a>
 </p>
 
 <h2 align="center">👋 Sobre Mim</h2>
