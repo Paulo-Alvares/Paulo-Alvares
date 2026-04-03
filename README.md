@@ -100,7 +100,7 @@
     <td valign="top" width="20%">
       <h3 align="center">Cloud</h3>
       <div align="center">
-        <img src="https://iconsverse.vercel.app/icons?i=azure,aws,terraform,googlecloud&perline=3" />
+        <img src="https://iconsverse.vercel.app/icons?i=azure,aws,terraform,googlecloud,linux&perline=3" />
       </div>
     </td>
     <td valign="top" width="20%">
